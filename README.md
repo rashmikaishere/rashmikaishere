@@ -29,7 +29,7 @@ I'm a second-year B.Tech student specialising in **Electronics & Computer Engine
 
 ## 🛠️ Tech Stack
 
-**Languages & Web**
+**💻 Programming Languages & Web**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -38,31 +38,49 @@ I'm a second-year B.Tech student specialising in **Electronics & Computer Engine
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML & Computer Vision**
+**🤖 AI & Computer Vision**
+
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+`Attention Mechanisms` `Signal Processing` `IoU` `Precision & Recall` `Object Detection` `Image Segmentation`
+
+**🧠 Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+`CNNs` `U-Net++` `Transfer Learning` `Test-Time Augmentation (TTA)` `Data Augmentation`
+
+**📦 ML Tools & Libraries**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Albumentations](https://img.shields.io/badge/Albumentations-FF0000?style=flat-square&logo=python&logoColor=white)
 
-**Hardware & Embedded**
+**⚙️ Hardware & Embedded Systems**
 
 ![FPGA](https://img.shields.io/badge/FPGA-EF2D5E?style=flat-square&logo=xilinx&logoColor=white)
 ![8051](https://img.shields.io/badge/8051_Microcontroller-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+`PWM` `Infrared Sensors` `Digital Logic Design`
+
+**🧩 Core Competencies**
+
+`Problem-Solving` `Algorithmic Thinking` `Technical Documentation`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmikaishere&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikaishere&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmikaishere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikaishere&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rashmikaishere&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rashmikaishere&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
