@@ -32,43 +32,56 @@ I'm a second-year B.Tech student specialising in **Electronics & Computer Engine
 **💻 Programming Languages & Web**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E11D48?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-6366F1?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8B5CF6?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-06B6D4?style=flat-square&logo=css3&logoColor=white)
 
 **🤖 AI & Computer Vision**
 
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00C7B7?style=flat-square&logo=opencv&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-`Attention Mechanisms` `Signal Processing` `IoU` `Precision & Recall` `Object Detection` `Image Segmentation`
+![Attention Mechanisms](https://img.shields.io/badge/Attention_Mechanisms-0EA5E9?style=flat-square)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-7C3AED?style=flat-square)
+![IoU](https://img.shields.io/badge/IoU-059669?style=flat-square)
+![Precision & Recall](https://img.shields.io/badge/Precision_%26_Recall-D97706?style=flat-square)
+![Object Detection](https://img.shields.io/badge/Object_Detection-DC2626?style=flat-square)
+![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-BE185D?style=flat-square)
 
 **🧠 Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-`CNNs` `U-Net++` `Transfer Learning` `Test-Time Augmentation (TTA)` `Data Augmentation`
+![CNNs](https://img.shields.io/badge/CNNs-6D28D9?style=flat-square)
+![U-Net++](https://img.shields.io/badge/U--Net++-0369A1?style=flat-square)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-0F766E?style=flat-square)
+![TTA](https://img.shields.io/badge/Test--Time_Augmentation-B45309?style=flat-square)
+![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-9D174D?style=flat-square)
 
 **📦 ML Tools & Libraries**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Albumentations](https://img.shields.io/badge/Albumentations-FF0000?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-239120?style=flat-square&logo=python&logoColor=white)
+![Albumentations](https://img.shields.io/badge/Albumentations-CC0000?style=flat-square&logo=python&logoColor=white)
 
 **⚙️ Hardware & Embedded Systems**
 
 ![FPGA](https://img.shields.io/badge/FPGA-EF2D5E?style=flat-square&logo=xilinx&logoColor=white)
 ![8051](https://img.shields.io/badge/8051_Microcontroller-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-`PWM` `Infrared Sensors` `Digital Logic Design`
+![PWM](https://img.shields.io/badge/PWM-7C3AED?style=flat-square)
+![Infrared Sensors](https://img.shields.io/badge/Infrared_Sensors-B45309?style=flat-square)
+![Digital Logic Design](https://img.shields.io/badge/Digital_Logic_Design-0F766E?style=flat-square)
 
 **🧩 Core Competencies**
 
-`Problem-Solving` `Algorithmic Thinking` `Technical Documentation`
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-0284C7?style=flat-square)
+![Algorithmic Thinking](https://img.shields.io/badge/Algorithmic_Thinking-7C3AED?style=flat-square)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-059669?style=flat-square)
 
 ---
 
@@ -112,11 +125,11 @@ Built an autonomous **line follower robot** using an 8051 microcontroller and **
 
 ## 🎓 Education
 
-| Degree | Institution | Score | Year |
-|--------|-------------|-------|------|
-| B.Tech – Electronics & Computer Engineering | Vellore Institute of Technology, Chennai | 8.95 / 10 | 2024 – 2028 |
-| Intermediate / Class XII | Rainbow International School, Thane | 88.2% | 2022 – 2024 |
-| Class X (CBSE) | Asia Pacific World School, Bengaluru | 91.8% | 2021 – 2022 |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| B.Tech – Electronics & Computer Engineering | Vellore Institute of Technology, Chennai | 2024 – 2028 |
+| Intermediate / Class XII | Rainbow International School, Thane | 2022 – 2024 |
+| Class X (CBSE) | Asia Pacific World School, Bengaluru | 2021 – 2022 |
 
 ---
 
